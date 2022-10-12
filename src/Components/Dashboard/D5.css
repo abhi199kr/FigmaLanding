@@ -1,0 +1,23 @@
+.review{
+    color: red;
+    /* Auto layout */
+
+
+padding: 10px;
+gap: 10px;
+
+
+width: 600px;
+height: 41px;
+
+
+
+background: #FFFFFF;
+border: 1px solid #F765A3;
+color: #F765A3;
+border-radius: 5px;
+}
+.review:hover{
+    background-color: #F765A3;
+    color: white;
+}

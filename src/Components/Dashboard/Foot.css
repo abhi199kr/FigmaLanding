@@ -1,0 +1,30 @@
+.foot{
+    position: absolute;
+
+height: 547.7px;
+left: 0px;
+
+
+background: #F765A3;
+}
+.cd{
+   
+
+
+width: 379px;
+height: 41px;
+left: 957px;
+
+
+background: #FFFFFF;
+border: 1px solid #F765A3;
+border-radius: 5px;
+color: gray;
+margin-top: 20px;
+text-align: center;
+}
+.cd:hover{
+    background-color: #F765A3;
+    color: white;
+    border: 1px solid white;
+}
