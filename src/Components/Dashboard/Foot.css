@@ -11,7 +11,7 @@ background: #F765A3;
    
 
 
-width: 379px;
+width:auto;
 height: 41px;
 left: 957px;
 
@@ -28,3 +28,9 @@ text-align: center;
     color: white;
     border: 1px solid white;
 }
+@media screen and (max-width: 480px){
+    .foot{
+       /* flex-direction: column; */
+       height: fit-content;
+    }
+ }

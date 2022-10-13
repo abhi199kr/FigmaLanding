@@ -21,3 +21,11 @@ border: 1px solid #F765A3;
     background-color: #F765A3;
     color: white;
 }
+.para{
+    font-weight:400;
+}
+/* @media screen and (max-width: 425px){
+    .fcr{
+       flex-direction: column;
+    }
+ } */

@@ -3,9 +3,10 @@ import './Header.css'
 
 const Header = () => {
   return (
-    <div className='bg-blue-400'>
+    <div className='border-2 border-gray-100 overflow-hidden'>
     <div className='flex px-5 py-2'>
-    <div className='mr-36'><button className='log'>Log in</button></div>
+    <div className=''><button className='log'>Logo</button></div>
+    {/* <div className='py-5'>logo</div> */}
     {/* next flex for between */}
 
     <div className='flex gap-10 between_ py-5 ml-auto'>
@@ -21,9 +22,10 @@ const Header = () => {
     
 
     </div>
-    <div className='flex gap-3 place-items-end ml-auto'>
-    <div><button className='login'>Log in</button></div>
-    <div><button className='login'>Sign up</button></div>
+    <div className='flex gap-3  ml-auto my-auto '>
+    <button className='login '>Logins</button>
+    <button className='login'>Sign up</button>
+    
    
     
 

@@ -3,7 +3,7 @@ import job from "../../Assets/Images/job.png"
 import './D4.css'
 const Dashbord4 = () => {
   return (
-    <div className='pt-20 px-20'>
+    <div className='pt-20 px-10  md:px-20'>
       <h1 className='text-center font-bold text-2xl'>Why Choose us?</h1>
       <p className='pt-2'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta assumenda officiis blanditiis. Vitae, optio, voluptate repellat debitis ab laborum, adipisci impedit quod architecto enim doloremque a ipsa excepturi voluptatem sed.
       </p>
@@ -12,20 +12,20 @@ const Dashbord4 = () => {
       </div>
 
       {/* second last div */}
-      <div className='flex gap-20 pt-5'>
-      <div className='w-1/3'>
+      <div className='flex flex-col md:flex-row gap-20 pt-5'>
+      <div className='md:w-1/3'>
       <h1 className='font-bold text-2xl'>1.Lorem Ipsum</h1>
       <p className='font-medium'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quidem, ut, dignissimos nemo quis vel nulla voluptate dolor, ratione quam eveniet? Dolore exercitationem libero harum odit incidunt, quas illum fugit.
       </p>
 
       </div>
-      <div className='w-1/3'>
+      <div className='md:w-1/3'>
       <h1 className='font-bold text-2xl'>2.Lorem Ipsum</h1>
       <p className='font-medium'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quidem, ut, dignissimos nemo quis vel nulla voluptate dolor, ratione quam eveniet? Dolore exercitationem libero harum odit incidunt, quas illum fugit.
       </p>
 
       </div>
-      <div className='w-1/3'>
+      <div className='md:w-1/3'>
       <h1 className='font-bold text-2xl'>3.Lorem Ipsum</h1>
       <p className='font-medium'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quidem, ut, dignissimos nemo quis vel nulla voluptate dolor, ratione quam eveniet? Dolore exercitationem libero harum odit incidunt, quas illum fugit.
       </p>

@@ -21,3 +21,13 @@ border-radius: 5px;
     background-color: #F765A3;
     color: white;
 }
+@media screen {
+    
+}
+@media screen and (max-width: 480px) {
+    .review {
+     width: 280px;
+     text-align: center;
+     
+    }
+  }
