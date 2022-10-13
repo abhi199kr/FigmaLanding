@@ -6,7 +6,7 @@ import { MdSupportAgent } from 'react-icons/md';
 
 const Dashboardmid2 = () => {
   return (
-    <div className='px-10 md:px-20'>
+    <div className='px-10 pt-10 md:px-20'>
       <h1 className='text-4xl font-bold'>Features</h1>
       <div className='flex flex-col md:flex-row gap-10 px-10'>
       <div className='md:w-1/3'>
