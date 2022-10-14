@@ -34,7 +34,7 @@ const Dashboardmid2 = () => {
       <img src={ud} alt="" className='px-10 pt-8' />
 
       </div>
-      <h2 className='font-bold pt-2'>Boosts Customer engagement</h2>
+      <h2 className='font-bold pt-2 text-center md:text-start'>Boosts Customer engagement</h2>
 
       </div>
 
