@@ -15,7 +15,7 @@ const Dashboardmid2 = () => {
       <MdSupportAgent  className='h-20 pt-6 pr-16   w-48' />
 
       </div>
-      <h2 className='font-bold pt-2 text-center md:text-start'>Support accross channels</h2>
+      <h2 className='font-bold pt-2 lg:-mx-5 text-center md:text-start'>Support accross channels</h2>
 
       </div>
 
