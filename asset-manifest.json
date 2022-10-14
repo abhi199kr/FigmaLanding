@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/FigmaLanding/static/css/main.93d757b4.css",
-    "main.js": "/FigmaLanding/static/js/main.7a084178.js",
+    "main.css": "/FigmaLanding/static/css/main.b4574ab2.css",
+    "main.js": "/FigmaLanding/static/js/main.d9d198b9.js",
     "static/js/787.9041e75a.chunk.js": "/FigmaLanding/static/js/787.9041e75a.chunk.js",
     "static/media/job.png": "/FigmaLanding/static/media/job.e6277ceed430bda01c56.png",
     "static/media/zendy.jpg": "/FigmaLanding/static/media/zendy.fa1a9b54c695557c3348.jpg",
     "static/media/sit.png": "/FigmaLanding/static/media/sit.670d51eb3de27f5f12c5.png",
     "index.html": "/FigmaLanding/index.html",
-    "main.93d757b4.css.map": "/FigmaLanding/static/css/main.93d757b4.css.map",
-    "main.7a084178.js.map": "/FigmaLanding/static/js/main.7a084178.js.map",
+    "main.b4574ab2.css.map": "/FigmaLanding/static/css/main.b4574ab2.css.map",
+    "main.d9d198b9.js.map": "/FigmaLanding/static/js/main.d9d198b9.js.map",
     "787.9041e75a.chunk.js.map": "/FigmaLanding/static/js/787.9041e75a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93d757b4.css",
-    "static/js/main.7a084178.js"
+    "static/css/main.b4574ab2.css",
+    "static/js/main.d9d198b9.js"
   ]
 }
