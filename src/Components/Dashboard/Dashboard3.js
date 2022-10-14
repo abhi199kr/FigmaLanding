@@ -7,7 +7,7 @@ const Dashboard3 = () => {
     <h1 className='font-bold text-2xl'>All Customer relationships managed in one place</h1>
       <div className='flex flex-col md:flex-row pt-10'>
       <div className='md:w-1/2'>
-        <img src={sit} alt="" />
+        <img src={sit} alt="" className='object-contain md:py-40 lg:py-0 lg:pt-20 ' />
       </div>
       <div className='md:w-1/2'>
       <div className='pt-20'>
@@ -16,13 +16,13 @@ const Dashboard3 = () => {
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 </p>
       </div>
-      <div className='pt-20'>
+      <div className='pt-16'>
         <h1 className='font-bold text-2xl'>2.Lorem Ipsum</h1>
         <p>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 </p>
       </div>
-      <div className='pt-20'>
+      <div className='pt-16'>
         <h1 className='font-bold text-2xl'>3.Lorem Ipsum</h1>
         <p>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 

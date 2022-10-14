@@ -10,7 +10,7 @@ const Dashboardmid2 = () => {
       <h1 className='text-4xl font-bold'>Features</h1>
       <div className='flex flex-col md:flex-row gap-10 px-10'>
       <div className='md:w-1/3'>
-      <div className='w-32 h-32 rounded-full bg-gray-200 text-center mt-5 mx-auto lg:mx-10 '>
+      <div className='w-32 h-32 rounded-full bg-gray-200 text-center mt-5 mx-auto lg:mx-0 '>
       {/* <img src={head} alt="" className='px-10 pt-8' /> */}
       <MdSupportAgent  className='h-20 pt-6 pr-16   w-48' />
 
@@ -20,17 +20,17 @@ const Dashboardmid2 = () => {
       </div>
 
       <div className='md:w-1/3'>
-      <div className='w-32 h-32 rounded-full bg-gray-200 text-center mt-5 mx-auto '>
+      <div className='w-32 h-32 rounded-full bg-gray-200 text-center mt-5 mx-auto lg:mx-0  '>
       <img src={clock} alt="" className='px-10 pt-8' />
 
       </div>
-      <h2 className='font-bold pt-2 px-5 text-center'>Time Saving</h2>
+      <h2 className='font-bold pt-2 px-5 text-center md:text-start '>Time Saving</h2>
 
       </div>
 
 
       <div className='md:w-1/3 ' >
-      <div className='w-32 h-32 rounded-full bg-gray-200 text-center mt-5 lg:mx-10 mx-auto'>
+      <div className='w-32 h-32 rounded-full bg-gray-200 text-center mt-5 mx-auto lg:mx-10 '>
       <img src={ud} alt="" className='px-10 pt-8' />
 
       </div>

@@ -1,5 +1,8 @@
 import React from 'react'
 import "./Foot.css"
+import fb from "../../Assets/Images/fb.png"
+import tw from "../../Assets/Images/tw.png"
+import linkdin from "../../Assets/Images/lindin.png"
 
 const Footer = () => {
   return (
@@ -13,6 +16,19 @@ const Footer = () => {
       <h1 className='font-bold'>About Us</h1>
       <p className='pt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatum illum quis accusantium quam suscipit? Necessitatibus cum, aperiam at expedita dolorem odio neque repudiandae voluptatem numquam quos reiciendis suscipit incidunt!
       </p>
+
+      <div className='flex gap-5 mt-10'>
+      <div className='w-12 h-12 bg-white rounded-full'>
+      <img src={fb} alt="" className='px-3 py-4  h-12'/>
+      </div>
+      <div className='w-12 h-12 bg-white rounded-full'>
+      <img src={tw} alt="" className='px-3 py-4 object-fit'/>
+      </div>
+      <div className='w-12 h-12 bg-white rounded-full'>
+      <img src={linkdin} alt="" className='px-3 py-4  h-12'/>
+      </div>
+
+      </div>
     </div>
     <div className='md:w-1/4'>
       <h1 className='font-bold'>About Us</h1>

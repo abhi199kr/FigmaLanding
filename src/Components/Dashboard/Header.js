@@ -88,7 +88,7 @@ const Header = (fixed) => {
                             navbar ? "block" : "hidden"
                         }`}
                     >
-                        <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
+                        <ul className="items-center justify-center space-y-8 md:flex md:space-x-2 lg:space-x-6 md:space-y-0">
                             
                         <li className=" hover:text-indigo-200">
                         <select id="countries" class=" text-gray-900 rounded-lg  dark:focus:ring-blue-500 dark:focus:border-blue-500">

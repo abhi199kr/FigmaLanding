@@ -5,9 +5,9 @@ const Dashbord4 = () => {
   return (
     <div className='pt-20 px-10  md:px-20'>
       <h1 className='text-center font-bold text-2xl'>Why Choose us?</h1>
-      <p className='pt-2'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta assumenda officiis blanditiis. Vitae, optio, voluptate repellat debitis ab laborum, adipisci impedit quod architecto enim doloremque a ipsa excepturi voluptatem sed.
+      <p className='pt-2 mt-10 md:px-20'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta assumenda officiis blanditiis. Vitae, optio, voluptate repellat debitis ab laborum, adipisci impedit quod architecto enim doloremque a ipsa excepturi voluptatem sed.
       </p>
-      <div className=' justify-center grid -mt-24'>
+      <div className=' justify-center grid -mt-24 py-20'>
         <img src={job} alt="" className='text-center h-72' />
       </div>
 
@@ -34,7 +34,7 @@ const Dashbord4 = () => {
       
 
       </div>
-      <div className='text-center'>
+      <div className='text-center mt-10'>
       <button className='know font-normal'>Know more</button>
 
       </div>
